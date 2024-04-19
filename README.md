@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **SEACCOM**
 
-- 🌱 I’m currently learning **System Design and AWS**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sevitha?tab=repositories](https://github.com/sevitha?tab=repositories)
 
