@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sevitha.anandaraj@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14BBiHTR5qouEQqCS0ez5X7q-3bAxylq5/view?usp=sharing](https://drive.google.com/file/d/14BBiHTR5qouEQqCS0ez5X7q-3bAxylq5/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/14BBiHTR5qouEQqCS0ez5X7q-3bAxylq5/view?usp=sharing](https://drive.google.com/file/d/14BBiHTR5qouEQqCS0ez5X7q-3bAxylq5/view?usp=sharing)](https://drive.google.com/file/d/1NiXzyIA7oFJ4OjGcxxZ1XnQKER3UEMse/view?usp=drive_link)
 
 - ⚡ About me **I'm a classical dancer and singer with a flair for crafting creative webpages**
 
