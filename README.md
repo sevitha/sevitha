@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SEACCOM**
+- 🔭 I’m currently doing PhD in Computer Architecture
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently working on EMI detection and mitigation on MSP430 microcontrollers
 
 - 👨‍💻 All of my projects are available at [https://github.com/sevitha?tab=repositories](https://github.com/sevitha?tab=repositories)
 
